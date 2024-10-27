@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHRINIVAS C DUMBALI</h1>
 <h3 align="center">A passionate AIML engineer and a python developer from India</h3>
 
-<img aligh="centre" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrinivasdumbali&label=Profile%20views&color=0e75b6&style=flat" alt="shrinivasdumbali" /> </p>
+<img align="centre" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrinivasdumbali" alt="shrinivasdumbali" /></a> </p>
 
